@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I'm looking for an internship
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and React with Typescript
 - 📫 How to reach me: paulopimentarubinger@gmail.com
 
 
